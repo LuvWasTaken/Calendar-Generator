@@ -1,5 +1,5 @@
 #### Introduction
-  This program generate the entire calendar for the given first day and year.
+  This program generates the entire calendar for a year given the year and first day.
   
 #### Sample Output
 
