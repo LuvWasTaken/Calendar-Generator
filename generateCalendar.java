@@ -1,6 +1,5 @@
 import java.util.Scanner;
 
-
 public class PA6a {
 	
 	static final String E_YEAR = "The year must be positive!";
