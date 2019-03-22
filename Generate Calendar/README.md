@@ -5,6 +5,8 @@
 
 Enter the year: 2015
 Enter the day of the week of January 1st (0=Sunday, 1=Monday, ... 6=Saturday): 4
+
+<pre>
 January
               1  2  3
   4  5  6  7  8  9 10
@@ -13,4 +15,6 @@ January
  25 26 27 28 29 30 31
  
  ...
+ 
+ </pre>
 
