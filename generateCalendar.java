@@ -109,7 +109,6 @@ public class PA6a {
 		
 		input.close();
 
-
 	}
 
 }
