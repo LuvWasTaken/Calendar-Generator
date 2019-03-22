@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class PA6a {
+public class generateCalendar {
 	
 	static final String E_YEAR = "The year must be positive!";
 	static final String E_DAY = "The day of January 1st must be between 0 and 6!";
